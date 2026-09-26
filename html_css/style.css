@@ -1,27 +1,6 @@
 *{
     background-color:rgb(0, 0, 0)
 }
-li {
-  font-size:24px;
-  color:red;
-}
-.intro_text{
-  color: purple
-}
-#titre_principal{
-  font-size: 50px;
-  color:rgba(23, 19, 98, 0.758);
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-}
-#texte_cool{
-  font-size: 24px;
-  color:rgb(255, 0, 191);
-}
-.div_texte{
-  width: 200px;
-  height: 200px;
-  background-color: rgb(17, 84, 142);
-}
 #titre{
   font-size: 50px;
   color:rgb(255, 255, 255);
